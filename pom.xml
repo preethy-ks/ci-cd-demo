@@ -39,7 +39,7 @@
 						<region>us-east-2</region>
 						<workers>1</workers>
 						<workerType>MICRO</workerType>
-						<applicationName>pks-ci/cd-demo</applicationName>
+						<applicationName>pks-ci-cd-demo</applicationName>
 						<muleVersion>4.4.0</muleVersion>
 						<objectStoreV2>true</objectStoreV2>
 					</cloudHubDeployment>
