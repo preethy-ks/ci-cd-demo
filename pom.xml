@@ -33,7 +33,6 @@
 				<extensions>true</extensions>
 				<configuration>
 					<cloudHubDeployment>
-						<businessGroup />
 						<username>Preethyks-2</username>
 						<password>Gowri@2330</password>
 						<environment>Sandbox</environment>
